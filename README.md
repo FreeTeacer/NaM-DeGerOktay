@@ -13,11 +13,11 @@
     <main>
         <section>
             <h2>Hakkında</h2>
-            <p>Bu, basit bir web sitesi örneğidir.</p>
+            <p>Bu, Basit Site Benim İlk SitemDir.</p>
         </section>
         <section>
             <h2>İletişim</h2>
-            <p>Beni sosyal medyada takip et!</p>
+            <p>mY Hacker :D!</p>
         </section>
     </main>
     <footer>
