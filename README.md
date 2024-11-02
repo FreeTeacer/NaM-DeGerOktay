@@ -12,7 +12,7 @@
     </header>
     <main>
         <section>
-            <h2>Hakkında</h2>
+            <h2>Hakkımda Duymak istediğiniz bişi olcağınızı sanmıyorum</h2>
             <p>Bu, Basit Site Benim İlk SitemDir.</p>
         </section>
         <section>
